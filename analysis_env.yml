@@ -1,0 +1,23 @@
+name: analysis_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - requests
+  - seaborn
+  - pillow
+  - rdkit
+  - ipykernel
+  - conda-forge::matplotlib-venn
+  - notebook
+  - pyzmq[version='<25']
+  - jupyter_client[version='<8']
+  - networkx
+  - dask
+  - conda-forge::ipympl
+  - openpyxl
+  - conda-forge::scikit-learn
+prefix: /lustre/fs6/lyu_lab/scratch/blam/soft/miniconda3/envs/analysis_env
