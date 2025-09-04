@@ -1,6 +1,6 @@
 ## Setup
 
-All script can be run with this environment unless states otherwise:
+All script can be run with this environment unless stated otherwise:
 
 Create the conda environment:
 
